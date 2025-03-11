@@ -50,4 +50,3 @@ fi
 
 arduino-cli compile --fqbn "$FQBN" . --build-path "$BUILD_PATH"
 echo "Exiting..."
-
