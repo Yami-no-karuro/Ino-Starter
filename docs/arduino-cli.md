@@ -1,7 +1,8 @@
 # Arduino CLI
+
 ## Getting Started Guide
 
-### Intro 
+### Intro
 
 [Arduino CLI](https://docs.arduino.cc/arduino-cli/) provides all the features you can find in the [Arduino IDE](https://www.arduino.cc/en/software).  
 The `arduino-cli` utility is a container of commands and each command has its own dedicated help text that can be shown with the `help` command.
@@ -26,4 +27,3 @@ This will keep the **WSL 2 lightweight VM** active.
 - On **Powershell** run `usbipd bind --busid <bus_id>` to share the device.
 - On **Powershell** run `usbipd attach --wsl --busid <bus_id>` to attach the shared device to WSL.
 - On **Bash** run `lsusb` to verify that the shared device is visible.
-
