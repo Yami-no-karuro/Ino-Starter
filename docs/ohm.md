@@ -6,6 +6,7 @@ The fundamental formula for Ohm's Law is:
 **V = I * R**
 
 Where:
+
 - **V** is the voltage (in volts, V)
 - **I** is the current (in amperes, A)
 - **R** is the resistance (in ohms, Ω)
@@ -17,6 +18,7 @@ If we want to calculate the voltage applied across a component, we can use the f
 **V = I * R**
 
 Where:
+
 - **V** is the voltage
 - **I** is the current flowing through the component
 - **R** is the resistance of the component
@@ -28,6 +30,7 @@ If we want to calculate the current flowing through a circuit, we can rewrite Oh
 **I = V / R**
 
 Where:
+
 - **I** is the current
 - **V** is the applied voltage
 - **R** is the resistance
@@ -39,6 +42,7 @@ If we want to calculate the resistance of a component, we can rewrite Ohm's Law 
 **R = V / I**
 
 Where:
+
 - **R** is the resistance
 - **V** is the applied voltage
 - **I** is the current flowing through the component
